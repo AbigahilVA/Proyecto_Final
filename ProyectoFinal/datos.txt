@@ -1,0 +1,8 @@
+7690249658, Juan Osorio, 005, A, 75.0
+7690241122, Carlos Ruano, 005, B, 60.5
+7690243344, Magda Aguilar, 005, B, 90.0
+7690245566, Elizabeth Marroquin, 035, C, 80.1
+7690247788, Carlos Jimenez, 035, A, 70.0
+7690249900, Wendy Hernandez, 035, C, 95.5
+7690240022, Fernando Munoz, 070, A, 85.5
+7690240000, Yuridia Escobar, 006, A, 7.60
